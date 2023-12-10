@@ -1,0 +1,25 @@
+body {
+    font-family: sans-serif;
+    background-color:lightblue;
+}
+td {
+    border: 1px solid deepskyblue;
+}
+h2 {
+    font-size: 40px;
+}
+p {
+    font-size: 20px;
+}
+footer,header {
+    background-color: orange;
+}
+.green {
+    border: 1px solid green;
+}
+.cadet {
+    border: 1px solid cadetblue;
+}
+.aqua {
+    border: 1px solid aqua;
+}
